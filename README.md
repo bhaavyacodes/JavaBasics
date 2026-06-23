@@ -2,7 +2,7 @@
 
 This repository captures my first steps into the world of Java—experimenting, breaking things, fixing them, and understanding how everything works under the hood.
 
-From input/output and conditional statements to loops, methods, arrays, and strings, each program represents a small step toward building a stronger programming foundation.
+From input/output and conditional statements to loops, methods, arrays, & strings, each program represents a small step toward building a stronger programming foundation.
 
 ## 📚 Topics Covered
 
